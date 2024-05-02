@@ -1,0 +1,7 @@
+﻿input {
+    short DirectionX;
+    short DirectionY;
+    short Rotation;
+    button Jump;
+    button Shoot;
+}

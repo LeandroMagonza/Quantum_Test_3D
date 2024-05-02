@@ -1,0 +1,7 @@
+component PlayerAnimationState {
+    short IsWalkingX;
+    short IsWalkingY;
+    bool IsJumping; 
+    bool IsGrounded; 
+    bool IsShooting; 
+}
